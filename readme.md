@@ -5,3 +5,9 @@ concepts learnt
 hooks - useState, useRef and useEffect
 incorporate css to react
 spread operatpr
+named import 
+default import
+learned about
+    create-vite, npm npx , eslint 
+    javascript modules - export and import
+    
